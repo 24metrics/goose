@@ -28,7 +28,7 @@ Goose is a database migration tool. Manage your database schema by creating incr
 
 # Install
 
-    $ go get -u github.com/pressly/goose/cmd/goose
+    $ go get -u github.com/24metrics/goose/cmd/goose
 
 This will install the `goose` binary to your `$GOPATH/bin` directory.
 
